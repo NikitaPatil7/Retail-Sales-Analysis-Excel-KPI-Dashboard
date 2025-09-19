@@ -47,32 +47,32 @@ The Excel workbook contains 4 sheets:
 
 
 ## Tools & Skills Used
-1. Microsoft Excel
-  * Pivot Tables & Pivot Charts
-  * Data Cleaning & Formatting
-  * Slicers for interactivity
-  * Dashboard Design & Layout
-
-2. Data Analysis Skills
-  * Retail Sales Insights
-  * KPI Reporting
-  * Data Visualization
-
-3. Dataset Source
-  * Kaggle: Amazon Sales Dataset
+ 1. Microsoft Excel
+    * Pivot Tables & Pivot Charts
+    * Data Cleaning & Formatting
+    * Slicers for interactivity
+    * Dashboard Design & Layout
+ 
+ 2. Data Analysis Skills
+    * Retail Sales Insights
+    * KPI Reporting
+    * Data Visualization
+ 
+ 3. Dataset Source
+    * Kaggle: Amazon Sales Dataset
 
 ## Dashboard Preview
 ### Insights Generated
-    1. Food and Beverages product line generated the highest revenue.
-    2. Branch D contributed the largest share of total revenue.
-    3. Customer type and payment methods impacted sales patterns, revealing opportunities for targeted marketing.
-    4. Average customer rating stabilized around 7.0, indicating moderate satisfaction.
+    * Food and Beverages product line generated the highest revenue.
+    * Branch D contributed the largest share of total revenue.
+    * Customer type and payment methods impacted sales patterns, revealing opportunities for targeted marketing.
+    * Average customer rating stabilized around 7.0, indicating moderate satisfaction.
 
 ## How This Project Adds Value
 This project demonstrates practical, industry-relevant data analysis using Excel, which is widely adopted in real-world business reporting. It highlights the ability to:
-    * Work with raw data and transform it into actionable insights.
-    * Build interactive dashboards for decision-making.
-    * Present findings in a clear, structured, and professional format.
+   * Work with raw data and transform it into actionable insights.
+   * Build interactive dashboards for decision-making.
+   * Present findings in a clear, structured, and professional format.
 
 ## Future Improvements
 To make this project more advanced and industry-ready, the following improvements can be added:
