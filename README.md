@@ -62,11 +62,11 @@ The Excel workbook contains 4 sheets:
     * Kaggle: Amazon Sales Dataset
 
 ## Dashboard Preview
-### Insights Generated
-    * Food and Beverages product line generated the highest revenue.
-    * Branch D contributed the largest share of total revenue.
-    * Customer type and payment methods impacted sales patterns, revealing opportunities for targeted marketing.
-    * Average customer rating stabilized around 7.0, indicating moderate satisfaction.
+### Results and Insights
+   * Food and Beverages product line generated the highest revenue.
+   * Branch D contributed the largest share of total revenue.
+   * Customer type and payment methods impacted sales patterns, revealing opportunities for targeted marketing.
+   * Average customer rating stabilized around 7.0, indicating moderate satisfaction.
 
 ## How This Project Adds Value
 This project demonstrates practical, industry-relevant data analysis using Excel, which is widely adopted in real-world business reporting. It highlights the ability to:
