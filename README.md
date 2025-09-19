@@ -3,7 +3,7 @@ An interactive Excel-based Retail Sales Analysis Dashboard showcasing KPIs, reve
 
 <img width="1272" height="637" alt="Image" src="https://github.com/user-attachments/assets/74fa0d7f-2f4e-43f1-ab71-08f180de84eb" />
 
-# Retail Sales Analysis Dashboard (Excel Project)
+# Retail Sales Analysis Dashboard
 ## Project Overview
 
 This project presents an Excel-based Retail Sales Analysis Dashboard built from a Kaggle dataset. The objective was to perform end-to-end data analysis starting from raw sales data, cleaning and organizing it, calculating KPIs, and finally building an interactive dashboard to generate business insights.
